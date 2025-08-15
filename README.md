@@ -39,5 +39,10 @@ Il inclut également un système de gestion et de suivi des erreurs.
 - **Fichiers logs** : Source de données alternative.
 ## 🛠 Captures du projet 
 ![Alt text](https://github.com/malek413/ultrason_cofat/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%202025-08-15%20214754.png)
+![Alt text](https://github.com/malek413/ultrason_cofat/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%202025-08-15%20214826.png)
+![Alt text](https://github.com/malek413/ultrason_cofat/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%202025-08-15%20214903.png)
+![Alt text](https://github.com/malek413/ultrason_cofat/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%202025-08-15%20214925.png)
+![Alt text](https://github.com/malek413/ultrason_cofat/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%202025-08-15%20214949.png)
+https://github.com/malek413/ultrason_cofat/blob/main/images/Capture%20d%E2%80%99%C3%A9cran%202025-08-15%20214949.png
 
 
